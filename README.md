@@ -1,2 +1,7 @@
-# Python-Simple-Calculator
-This is a simple calculator program made with the four basic operations ( + , - , * , / ) and memory tools ( MR, M+ , M- , MC )
+## How to run
+1. Clone the repository
+2. Make sure Python 3.x is installed
+3. Run the calculator:
+   ```bash
+   python calculator.py
+Copy code
